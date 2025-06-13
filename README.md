@@ -53,7 +53,7 @@ A feature-rich calendar application built with **React** and **TypeScript**, all
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/messyKassaye/calendar-app
+git clone https://github.com/fitsumcs/calander-app.git
 cd calendar-app
 ```
 
